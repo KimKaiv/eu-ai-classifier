@@ -76,7 +76,7 @@ st.markdown("""
 st.markdown('<div class="main-header">EU AI Act Risk Classifier</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-header">Classify your AI system according to the EU AI Act (2024)</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-header">The sweet irony of using AI to assess the risk of AI -- surely not what EU legislators intended! :-)</div>', unsafe_allow_html=True)
-st.markdown('<div class="sub-header">Demonstrator in under development</div>', unsafe_allow_html=True)
+st.markdown('<div class="sub-header">Demonstrator under development</div>', unsafe_allow_html=True)
 
 # Sidebar with information
 with st.sidebar:
